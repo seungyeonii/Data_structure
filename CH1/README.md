@@ -79,7 +79,7 @@
 
     
 
-    <img src="./01pic/NAT.png">
+    <img src="./01pic/NAT.PNG">
 
     
 
@@ -129,15 +129,15 @@
 
       > 양의 정수   n을 n 번 더하는 문제를 생각
       >
-      > <img src ="./01pic/algorithm.png">
+      > <img src ="./01pic/algorithm.PNG">
       >
       > 
       >
-      > <img src ="./01pic/algorithm2.png">
+      > <img src ="./01pic/algorithm2.PNG">
       >
       > 
       >
-      > <img src ="./01pic/algorithm_time.png">
+      > <img src ="./01pic/algorithm_time.PNG">
 
 - 빅오 표기법
 
