@@ -12,7 +12,7 @@
 
   > 정수의 팩토리얼
 
-  <img src="./02pic/recursion.png">
+  <img src="./02pic/recursion.PNG">
 
   ```c
   // 순환적인 팩토리얼 계산 프로그램
@@ -30,7 +30,7 @@
 
   
 
-  <img src="./02pic/factorial(3).png">
+  <img src="./02pic/factorial(3).PNG">
 
   ```c
   int factorial(int n)
@@ -47,7 +47,7 @@
 
   - 구조
 
-    <img src="./02pic/구조.png">
+    <img src="./02pic/구조.PNG">
 
   ```c
   //  if (n <= 1 ) return(1)이 없다면
@@ -140,7 +140,7 @@
 
 - 거듭제곱계산 반복적인 프로그램과 순환적인 프로그램의 연산
 
-  <img src="./02pic/time.png">
+  <img src="./02pic/time.PNG">
 
   
 
@@ -165,7 +165,7 @@
 
   -> 위의 함수는 단순하고 이해하기 쉽지만 비효율적이다.
 
-  <img src="./02pic/순환피보나치수열.png">
+  <img src="./02pic/순환피보나치수열.PNG">
 
   >**T(n) = T(n-1) + T(n-2) + C**
   >
@@ -201,7 +201,7 @@
 
 - 하노이 탑
 
-  <img src="./02pic/hanoi.png">
+  <img src="./02pic/hanoi.PNG">
 
   >문제
   >
@@ -221,7 +221,7 @@
 
   **🔸 솔루션 **
 
-  <img src="./02pic/hanoi_answer.png">
+  <img src="./02pic/hanoi_answer.PNG">
 
   - 알고리즘
 
